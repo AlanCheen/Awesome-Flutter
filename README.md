@@ -27,6 +27,8 @@
 
 ### 闲鱼
 
+闲鱼大量使用了 Flutter，并输出了一系列高质量文章，非常值得一看： https://www.yuque.com/xytech/flutter
+
 
 
 ### 微店
